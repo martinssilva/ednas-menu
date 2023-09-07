@@ -1,0 +1,31 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding:10px;
+}
+main {
+    display: flex; /* Center the image horizontally and vertically */
+    justify-content: center;
+    align-items: center;
+}
+.menu-photo {
+    max-width: 90%; /* You can adjust this value to control the scaling */
+    max-height: 90vh; /* You can adjust this value to control the scaling */
+    background-color: aqua;
+    display: flex; /* Center the image horizontally and vertically */
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    max-width: 95%;
+    max-height: 95%; 
+}
+
+
+
