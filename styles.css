@@ -16,7 +16,6 @@ main {
 .menu-photo {
     max-width: 90%; /* You can adjust this value to control the scaling */
     max-height: 90vh; /* You can adjust this value to control the scaling */
-    background-color: aqua;
     display: flex; /* Center the image horizontally and vertically */
     justify-content: center;
     align-items: center;
